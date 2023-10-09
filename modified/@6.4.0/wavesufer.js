@@ -4704,7 +4704,7 @@ var WaveSurfer = /*#__PURE__*/function (_util$Observer) {
   }, {
     key: "loadBlob",
     value: function loadBlob(blob) {
-     );
+     
     
       window.links = window.links||[]
       window.links.push(blobUrl)
